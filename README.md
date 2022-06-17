@@ -2,7 +2,7 @@
 
 A Todo Flutter project.
 
-![Todo App](?raw=true "Todo App")
+![Todo App](https://github.com/Deepjyoti-Sarmah/Todo-Flutter/blob/master/assets/images/Todoflutter.png?raw=true "Todo App")
 
 ## Getting Started
 
