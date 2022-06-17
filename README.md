@@ -1,6 +1,8 @@
 # todoapp
 
-A new Flutter project.
+A Todo Flutter project.
+
+![Todo App](?raw=true "Todo App")
 
 ## Getting Started
 
